@@ -23,7 +23,7 @@ $student_names = [
     'Elena'
 ];
 
-$colors = [red , cyan, orange, blue, yellow, purple, green];
+$colors = ['red' , 'cyan', 'orange', 'blue', 'yellow', 'purple', 'green'];
 
 $i=0; //Счётчик по цветам
 $y=1; //Счётчик по студентам
